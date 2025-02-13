@@ -1,0 +1,16 @@
+
+alacritty 
+arc-icon-theme 
+brightnessctl 
+bspwm 
+dracula-gtk-theme 
+dmenu
+j4-dmenu-desktop 
+lxappearance 
+polybar 
+ttf-iosevka-nerd 
+ttf-iosevkaterm-nerd 
+ttf-iosevkatermslab-nerd 
+ttf-sarasa-gothic 
+vimix-cursors 
+xorg-xsetroot 
