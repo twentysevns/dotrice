@@ -2,7 +2,7 @@
 
 [colors.bright]
 black = "#575b70"
-blue = "#caa9fa"
+blue = "#b289fa"
 cyan = "#9aedfe"
 green = "#5af78e"
 magenta = "#ff92d0"
@@ -16,7 +16,7 @@ text = "#3B4252"
 
 [colors.normal]
 black = "#575b70"
-blue = "#caa9fa"
+blue = "#6B5297"
 cyan = "#9aedfe"
 green = "#5af78e"
 magenta = "#ff92d0"
