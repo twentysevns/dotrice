@@ -1,28 +1,32 @@
 #theme = "Dracula"
 
-[colors.bright]
-black = "#575b70"
-blue = "#b289fa"
-cyan = "#9aedfe"
-green = "#5af78e"
-magenta = "#ff92d0"
-red = "#ff6e67"
-white = "#e6e6e6"
-yellow = "#f4f99d"
+[colors.primary]
+background = '#282a36'
+foreground = '#f8f8f2'
 
-[colors.cursor]
-cursor = "#FFFFFF"
-text = "#3B4252"
 
 [colors.normal]
-black = "#575b70"
-blue = "#6B5297"
-cyan = "#9aedfe"
-green = "#5af78e"
-magenta = "#ff92d0"
-red = "#ff6e67"
-white = "#e6e6e6"
-yellow = "#f4f99d"
+black =   '#000000'
+red =     '#ff5555'
+green =   '#50fa7b'
+yellow =  '#f1fa8c'
+blue =    '#6B5297'
+magenta = '#ff79c6'
+cyan =    '#8be9fd'
+white =   '#ffffff'
+
+
+
+[colors.bright]
+black =   '#575b70'
+red =     '#ff6e67'
+green =   '#5af78e'
+yellow =  '#f4f99d'
+blue =    '#b289fa'
+magenta = '#ff92d0'
+cyan =    '#9aedfe'
+white =   '#ffffff'
+
 
 #[colors.normal]
 #black = "#000000"
@@ -34,14 +38,16 @@ yellow = "#f4f99d"
 #white = "#bfbfbf"
 #yellow = "#f1fa8c"
 
-[colors.primary]
-background = "#282a36"
-foreground = "#f8f8f2"
 
 [cursor]
 style = {shape = "Underline", blinking = "Always"}
 vi_mode_style = {shape = "Underline", blinking = "Always"}
 thickness = 0.25
+
+[colors.cursor]
+cursor = "#FFFFFF"
+text = "#3B4252"
+
 
 [env]
 LANG = "en_US.UTF-8"
@@ -50,7 +56,7 @@ TERM = "xterm-256color"
 WINIT_X11_SCALE_FACTOR = "1.0"
 
 [font]
-size = 10.5
+size = 12
 
 [font.bold]
 family = "IosevkaTerm Nerd Font"
